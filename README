@@ -1,0 +1,2 @@
+Based on Wayfarer Tooltip (http://www.wayfarerweb.com/wtooltip.php) a jQuery Tooltip.
+Patched a small bug that would cause long tooltips to hover over the link/span/tooltip parent and therefore prevent people from clicking on the link (or seeing the content).
